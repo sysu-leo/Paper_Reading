@@ -1,0 +1,2 @@
+https://github.com/laurentkneip/opengv/tree/master/src/relative_pose
+https://github.com/colmap/colmap/tree/dev/src/estimators
